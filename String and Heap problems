@@ -1,0 +1,71 @@
+► 𝗦𝗧𝗥𝗜𝗡𝗚 𝗣𝗔𝗧𝗧𝗘𝗥𝗡𝗦
+
+1/ Two Pointers
+Use when comparing characters from both ends or navigating inwards.
+
+—Valid Palindrome→https://lnkd.in/evA6W5Nf
+—Reverse Words in a String→https://lnkd.in/e9ezwk4E
+—Longest Palindromic Substring→https://lnkd.in/eS2J9eFn
+
+2/ Sliding Window
+Use for finding substrings with dynamic properties (length, frequency.
+
+—Minimum Window Substring→https://lnkd.in/eCcc5bPW
+—Longest Substring Without Repeating Characters→https://lnkd.in/ekhJ5fPW
+—Longest Substring with At Most K Distinct Characters→https://lnkd.in/ezaxRCdu
+
+3/ Hashmaps
+Use for frequency, lookup, or grouping operations.
+—Group Anagrams→https://lnkd.in/epgUM5R4
+—First Unique Character in a String→https://lnkd.in/eCxxzAD4
+—Valid Anagram→https://lnkd.in/e7CwaydW
+
+4/ String Manipulation
+Use when formatting, parsing, or transforming strings.
+
+—Reverse String→https://lnkd.in/eQWyVC8h
+—String to Integer (atoi→https://lnkd.in/eEwkvS27
+—Count and Say→https://lnkd.in/ez62RhHa
+
+► 𝗛𝗘𝗔𝗣 𝗣𝗔𝗧𝗧𝗘𝗥𝗡𝗦
+
+1/ Top-K Elements
+Use when you need to maintain the top or bottom K elements in a changing stream or dataset.
+
+—Kth Largest Element in an Array→https://lnkd.in/dztpqpuR
+—Sort Characters by Frequency→https://lnkd.in/ei9KG8Ag
+—Frequency of the Most Frequent Element→https://lnkd.in/emGYwp6Y
+2/ Merge K Sorted Structures
+Use for merging lists/arrays/streams that are independently sorted.
+
+—Merge k Sorted Lists→https://lnkd.in/eAfqQmsc
+—Find Median from Data Stream→https://lnkd.in/eewxqGtS
+—Merge Sorted Array→https://lnkd.in/eeevrsKG (with variation using a heap when arrays are large
+
+3/ Two Heaps for Median Tracking / Balance
+Use when tracking dynamic median or balancing two halves of a stream.
+
+—Heaters→https://lnkd.in/ePXhxNkv
+—Minimum Number of Refueling Stops→https://lnkd.in/eZ6wYCSM
+—Running Median (GFG→https://lnkd.in/eQucAn8i
+
+4/ Sliding Window + Heap
+Use when you need to dynamically find max/min in a moving window with efficient updates.
+
+—Sliding Window Maximum→https://lnkd.in/eMUFRJR5
+—Jump Game VI→https://lnkd.in/euRFw99p
+—Maximum Score from Performing Multiplication Operations→https://lnkd.in/erPKjsiT
+
+5/ Greedy Heap Applications
+Use when the best immediate choice changes dynamically — use heap to always fetch optimal option.
+
+—Minimum Interval to Include Each Query→https://lnkd.in/ezyBDw34
+—Car Pooling→https://lnkd.in/ei26HAim
+—Furthest Building You Can Reach→https://lnkd.in/eyjpyGpc
+
+6/ Heap in Game Theory / Turn-based Decisions
+Use when strategic picks or scores determine winning/losing based on order.
+
+—Stone Game II→https://lnkd.in/e2RThnqH
+—Maximum Score of a Good Subarray→https://lnkd.in/eDz3UE7T
+—Eliminate Maximum Number of Monsters→https://lnkd.in/e5UBWS-G
