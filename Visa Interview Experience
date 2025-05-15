@@ -1,0 +1,33 @@
+Visa Interview Experience
+Compensation: 50L + 7
+Position: Senior Software Engineer
+Application Method: Direct Application
+
+𝗥𝗼𝘂𝗻𝗱 𝟭: 𝗢𝗻𝗹𝗶𝗻𝗲 𝗔𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁 (𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸)
+ - SQL Questions: Simple join-based queries
+ - Use of RANK() function
+ - Coding Questions (Java): Array iteration and lookup-based problem
+ - Merge Two Sorted Linked Lists
+ - Subjective Java Question: Java memory management
+ - How to decide JVM memory allocation
+ - Considerations while allocating memory to JVM
+
+𝗥𝗼𝘂𝗻𝗱 𝟮: 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗥𝗼𝘂𝗻𝗱 (𝗝𝗮𝘃𝗮 + 𝗖𝗼𝗱𝗶𝗻𝗴)
+ - Coding: Best Time to Buy and Sell Stock
+ - Java Concepts: OOP: Encapsulation vs Abstraction
+ - Default methods in interfaces vs Abstract classes
+ - Collections: HashMap, TreeMap, HashSet
+ - Fail-safe vs Fail-fast iterators
+ - HashMap initial size and resizing
+ - JVM Architecture: Purpose of 3 types of ClassLoaders
+ - Object immutability
+ - Garbage Collection types and algorithms
+ - Thread Pools: Types and use cases
+ - String pool vs regular objects
+ - How to store sensitive data (char[] vs String)
+ - Java Streams: Grouping by multiple keys and frequency counting
+
+𝗥𝗼𝘂𝗻𝗱 𝟯: 𝗛𝗶𝗿𝗶𝗻𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 𝗥𝗼𝘂𝗻𝗱
+ - System Design: Design a write-intensive server that supports both read and write operations, with trade-off discussions
+ - High-Level Design (HLD): Design BookMyShow system
+ - Behavioral Questions: Standard project and team collaboration discussions
